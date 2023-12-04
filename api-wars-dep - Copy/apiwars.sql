@@ -8,7 +8,7 @@ CREATE TABLE users
     user_login text COLLATE pg_catalog."default" NOT NULL,
     user_name text COLLATE pg_catalog."default" NOT NULL,
     email text COLLATE pg_catalog."default" NOT NULL
-)
+);
 
 -- TABLESPACE pg_default;
 
